@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=timokoz&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timokoz&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true"/>
-  <img src="https://lanyard.cnrad.dev/api/1078206006355566643:hideDiscrim=true:hideTimestamp=true:hideStatus=true)](https://discord.com/users/1078206006355566643" />
 
 </p>
 
